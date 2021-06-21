@@ -1,0 +1,4 @@
+/mnt/c/Users/DELL/Desktop/descartes/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/DELL/Desktop/descartes/build/CMakeFiles/main.dir
+/mnt/c/Users/DELL/Desktop/descartes/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/DELL/Desktop/descartes/build/CMakeFiles/INS.dir

@@ -1,0 +1,7 @@
+required from ‘
+PlainObjectBase<Derived>::PlainObjectBase(const DenseBase<OtherDerived>&) 
+[with OtherDerived = CwiseBinaryOp<
+internal::scalar_difference_op<double, double>, 
+const Matrix<double, 3, 1>, 
+const Matrix<double, 3, 1> >; 
+Derived = Eigen::Matrix<double, 9, 1>]’
